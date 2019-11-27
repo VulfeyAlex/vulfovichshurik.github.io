@@ -13,6 +13,7 @@ body {
   width:2048px;
   background: url(https://github.com/VulfovichShurik/vulfovichshurik.github.io/blob/master/img/35.jpg?raw=true);
   opacity: 0.15;
+  background-size: contain;
 }
 
 img {
@@ -158,4 +159,22 @@ button {
 button:hover {
   background: gray;
   color: #FFFFFF;
+}
+
+.topic {
+  margin-left:5%;
+  margin-right:5%;
+  padding:5px;
+}
+
+.text {
+  margin-left:5%;
+  margin-right:5%;
+  padding:5px;
+}
+
+.core {
+  margin-left:5%;
+  margin-right:5%;
+  padding:5px;
 }
