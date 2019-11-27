@@ -15,11 +15,10 @@ body {
 .bg {
   margin:0px;
   position: absolute;
-  height: 3000px;
+  height: 2500px;
   width: 1920px;
   background: url(https://github.com/VulfovichShurik/vulfovichshurik.github.io/blob/master/img/35.jpg?raw=true);
-  background-position: center;
-  background-size: cover;
+  background-size: contain;
   opacity:0.15;
 }
 
