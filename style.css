@@ -109,7 +109,7 @@ img {
 .bg {
   margin: 0px;
   height: 2500px;
-  width: 1920px;
+  width: 100%;
   background: url(https://github.com/VulfovichShurik/vulfovichshurik.github.io/blob/master/img/35.jpg?raw=true) no-repeat top center;
   -webkit-backsground-size: cover;
   background-size: cover;
